@@ -1,7 +1,7 @@
 import socket
 
 # Configuração do alvo
-alvo = "192.168.56.1"  # IP do seu próprio computador para teste (localhost)
+alvo = "192.168.0.0"  # IP do seu próprio computador para teste (localhost)
 portas_comuns = [21, 22, 80, 443, 3306, 3389]
 
 print(f"Iniciando scan no alvo: {alvo}")
