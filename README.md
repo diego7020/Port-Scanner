@@ -1,4 +1,5 @@
 🛡️ **Network Port Scanner (TCP)**
+
 Este é um script de automação desenvolvido em Python focado em auditoria de segurança e infraestrutura de redes. Ele realiza o rastreio de portas abertas em um endereço IP específico, auxiliando na identificação de serviços ativos e possíveis vulnerabilidades de exposição.
 
 🚀 **Funcionalidades**
