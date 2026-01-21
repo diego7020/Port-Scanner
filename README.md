@@ -11,14 +11,16 @@ Este é um script de automação desenvolvido em Python focado em auditoria de s
 **Tratamento de Erros**: Utiliza a biblioteca socket para gerenciar conexões sem interromper a execução do script.
 
 🛠️ **Tecnologias Utilizadas**
+
 Linguagem: Python 3.
 
 **Módulo**: socket (comunicação de baixo nível em redes).
 
-
 **Conceitos Aplicados**: Protocolos TCP/IP, Endereçamento IPv4 e Segurança Defensiva (aprendidos através do curso de Cybersegurança pela Cisco).
 
+
 📋 **Como utilizar**
+
 Certifique-se de ter o Python instalado.
 
 **Clone este repositório:**
