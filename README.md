@@ -26,12 +26,14 @@ Certifique-se de ter o Python instalado.
 **Clone este repositório:**
 
 **Bash**
+
 git clone https://github.com/seu-usuario/port-scanner.git
 Altere a variável alvo no código para o IP desejado.
 
 **Execute o script:**
 
 **Bash**
+
 python scanner.py
 
 ⚠️ **Aviso Legal**
